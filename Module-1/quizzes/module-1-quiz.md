@@ -1,53 +1,63 @@
 # Module 1 Quiz (Beginner)
 
-**Format:** 10 questions (MCQ + T/F). Passing ≥ 7/10.
+**Format:** 9 questions (MCQ + T/F). Passing ≥ 7/9.
 
-1) An LLM primarily does what?  
-A. Stores data like a database  
-B. Predicts the next token in a sequence  
-C. Executes API calls automatically  
-D. Compresses files
+## Section 1: What AI is (3 questions)
 
-2) Tokens matter because…  
-A. They determine model color palettes  
-B. Pricing/limits are based on tokens  
-C. They enable version control  
-D. They remove latency
+1. In this course, a "model" is best described as:
+   A. The app's pricing plan
+   B. The AI brain that generates answers ✅
+   C. A file you download
+   D. A plugin store
 
-3) The *context window* is…  
-A. Your browser viewport  
-B. How much the model can consider at once  
-C. The time between prompts  
-D. A Git feature
+2. A "prompt" is:
+   A. A database
+   B. Your instruction to the AI ✅
+   C. An integration
+   D. A browser extension
 
-4) Which is better prompt practice?  
-A. “Help?”  
-B. “You are a senior product tutor. Using the rubric below, score each lead 0–100 and return JSON.”  
-C. “Answer fast pls.”  
-D. “Write code.”
+3. The outcome we want from AI is mainly to:
+   A. Replace every employee
+   B. Save time on routine work with quality outputs ✅
+   C. Build robots
+   D. Do heavy coding
 
-5) Embeddings are used for…  
-A. Rendering CSS  
-B. Matching/searching semantically similar text  
-C. Hosting servers  
-D. Managing branches
+## Section 2: Tool categories (3 questions)
 
-6) T/F: A smaller, cheaper model is sometimes better if your task is simple.  
-7) T/F: Never paste secrets into AI tools.  
-8) Which tool pairs is most relevant to this module?  
-A. Blender + Unity  
-B. VS Code + GitHub  
-C. Adobe XD + After Effects  
-D. AutoCAD + Revit
+4. Which category turns bullet points into slides fastest?
+   A. Chat assistants
+   B. Slide & image helpers ✅
+   C. Meeting helpers
+   D. Workflow bots
 
-9) A 5‑step prompt loop includes which last step?  
-A. Publish to App Store  
-B. Reflect + iterate  
-C. Add animations  
-D. Buy a domain
+5. A bot that sends an auto-reply and logs to a sheet is a:
+   A. Document helper
+   B. Workflow bot (no-code) ✅
+   C. Slide helper
+   D. Translator
 
-10) In our no‑code prototype we segment leads into…  
-A. Bronze/Silver/Gold  
-B. Hot/Warm/Nurture  
-C. A/B/C  
-D. 1/2/3
+6. For reading a 40-page PDF and drafting a response:
+   A. Slide helper
+   B. Document helper ✅
+   C. Workflow bot
+   D. Calendar app
+
+## Section 3: Safe use (3 questions)
+
+7. Which is safe (green) to paste?
+   A. Client's ID number
+   B. A public blog post you wrote ✅
+   C. Bank statement
+   D. Unredacted customer list
+
+8. A good POPIA habit is to:
+   A. Paste full contracts into any tool
+   B. Share the least data needed and anonymize ✅
+   C. Ignore privacy
+   D. Always upload IDs
+
+9. To reduce wrong answers, add to your prompt:
+   A. Be funny
+   B. Cite sources; ask when unsure ✅
+   C. Use emojis
+   D. Write in Latin

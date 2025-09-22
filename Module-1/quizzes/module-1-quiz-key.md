@@ -1,42 +1,42 @@
 # Module 1 Quiz — Answer Key
 
-**Format:** 10 questions (MCQ + T/F). Passing ≥ 7/10.
+**Format:** 9 questions (MCQ). Passing ≥ 7/9.
 
-## Answers
+## Section 1: What AI is (3 questions)
 
-1) **B. Predicts the next token in a sequence**  
-   *LLMs are trained to predict the next token (word/piece) in a sequence based on patterns in training data.*
+1. **B. The AI brain that generates answers**  
+   _Models are the underlying AI systems that process inputs and generate outputs._
 
-2) **B. Pricing/limits are based on tokens**  
-   *Token usage directly affects API costs and rate limits - more tokens = higher cost.*
+2. **B. Your instruction to the AI**  
+   _Prompts are the instructions you give to AI tools to tell them what to do._
 
-3) **B. How much the model can consider at once**  
-   *Context window is the maximum number of tokens the model can process in a single request.*
+3. **B. Save time on routine work with quality outputs**  
+   _The goal is productivity and quality, not replacement or complex technical work._
 
-4) **B. "You are a senior product tutor. Using the rubric below, score each lead 0–100 and return JSON."**  
-   *Good prompts are specific, provide clear role, instructions, and output format.*
+## Section 2: Tool categories (3 questions)
 
-5) **B. Matching/searching semantically similar text**  
-   *Embeddings convert text to vectors that capture semantic meaning for similarity matching.*
+4. **B. Slide & image helpers**  
+   _Purpose-built slide tools are designed specifically for creating presentations from bullet points._
 
-6) **True**  
-   *Smaller models can be more cost-effective and faster for simple, well-defined tasks.*
+5. **B. Workflow bot (no-code)**  
+   _Multi-step automation that chains actions together is the definition of a workflow bot._
 
-7) **True**  
-   *Never paste API keys, passwords, or sensitive data into AI tools for security reasons.*
+6. **B. Document helper**  
+   _Document helpers are specialized for reading, summarizing, and extracting information from long documents._
 
-8) **B. VS Code + GitHub**  
-   *These are the core development tools covered in this module for code editing and version control.*
+## Section 3: Safe use (3 questions)
 
-9) **B. Reflect + iterate**  
-   *The 5-step prompt loop ends with reflection and iteration to improve results.*
+7. **B. A public blog post you wrote**  
+   _Public content that you own is safe to share with AI tools._
 
-10) **B. Hot/Warm/Nurture**  
-    *These are the three lead segments used in the lead qualification rubric.*
+8. **B. Share the least data needed and anonymize**  
+   _Data minimization and anonymization are key POPIA principles for safe AI use._
+
+9. **B. Cite sources; ask when unsure**  
+   _Adding guardrails like "cite sources" and "ask when unsure" helps prevent AI from making up information._
 
 ## Grading Notes
-- Questions 1-5, 8, 10: Multiple choice (1 point each)
-- Questions 6-7: True/False (1 point each)  
-- Question 9: Multiple choice (1 point each)
-- **Total: 10 points**
-- **Passing: 7+ points (70%)**
+
+- All questions: Multiple choice (1 point each)
+- **Total: 9 points**
+- **Passing: 7+ points (78%)**

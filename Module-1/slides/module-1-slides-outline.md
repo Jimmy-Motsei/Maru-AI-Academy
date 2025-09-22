@@ -1,11 +1,12 @@
 # Slides Outline — Module 1
 
-1) Title: AI Foundations for App Builders  
-2) Why now: small loops, real outcomes  
-3) Concepts that matter (LLM, token, prompt, context)  
-4) The 5‑step prompt loop  
-5) Tools you’ll use (VS Code, GitHub, Copilot)  
-6) No‑code prototype demo: lead qualifier  
-7) Quiz time  
-8) Lab brief & submission checklist  
-9) What’s next in Module 2 (code your first API micro‑service)
+1. Title: AI Made Simple (Foundations & Safety)
+2. Why AI matters: save 3-5 hours per day
+3. What AI is (in plain English)
+4. Tool categories you'll use
+5. Safe use (POPIA basics + common-sense rules)
+6. The 5-part prompt pattern
+7. Quick wins you can use today
+8. Quiz time
+9. Mini-assignment brief & AI rubric
+10. What's next in Module 2 (advanced AI techniques)
