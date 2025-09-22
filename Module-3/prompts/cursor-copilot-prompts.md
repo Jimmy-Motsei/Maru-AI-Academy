@@ -1,12 +1,31 @@
-# Cursor/Copilot Prompts — Module 3
+# Automation Prompts — Module 3
 
-**System:** You are a senior TypeScript engineer. Separate domain logic, DAL, and routes. Cover edge cases.
+## Tool Selection
+- "Help me evaluate this AI tool using the 5-point checklist"
+- "Compare these two automation platforms for my use case"
+- "Check if this tool meets POPIA compliance requirements"
+- "Calculate the ROI of this automation tool"
 
-**Scaffold DAL**
-“Create `src/dal.ts` exposing functions for `initDb`, `saveLead`, `listLeads(filters)`, `findLead(id)`, `deleteLead(id)`, `exportCsv`. Use `better-sqlite3`. Leads schema: id TEXT PK, created_at TEXT ISO, name TEXT, company TEXT, message TEXT, budget TEXT, urgency TEXT, notes TEXT, score INTEGER, segment TEXT.”
+## No-code Automation
+- "Design a trigger → actions → checks flow for [specific process]"
+- "Create a human approval step for this automation"
+- "Add logging to track automation performance"
+- "Build safety guardrails for customer communications"
 
-**Routes**
-“Add routes: POST `/leads` (validate with Zod, call `scoreLead`, then `saveLead`), GET `/leads` (filters: segment, minScore, q, from, to), GET `/leads/export` (CSV), POST `/leads/import` (CSV in text body). Return problem+json errors.”
+## Prompt Templates
+- "Create a professional email reply template for enquiries"
+- "Design a prompt that asks for missing information"
+- "Build a template that includes tone guidance"
+- "Add quality checks to this AI prompt"
 
-**Tests**
-“Add request tests creating a temp DB per run. Validate filters, export CSV headers, and import partial failures.”
+## Cost & Privacy
+- "Set up cost caps and alerts for this automation"
+- "Create a privacy policy for AI tool usage"
+- "Design data anonymization for this process"
+- "Build compliance checklists for the team"
+
+## Troubleshooting
+- "Help me debug this automation flow"
+- "Improve the quality of this AI output"
+- "Reduce costs for this automation"
+- "Add better error handling to this process"

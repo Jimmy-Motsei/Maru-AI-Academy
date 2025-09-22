@@ -1,9 +1,25 @@
-# Code Review Rubric — Module 3 (v1)
+# AI Rubric — Module 3
 
-| Area | Excellent (3) | Adequate (2) | Needs Work (1) |
-|---|---|---|---|
-| Data Design | Clear schema, indexes, migrations | Basic schema | Ad-hoc fields |
-| DAL Boundary | Pure interface, injected | Mixed concerns | Tight coupling |
-| Import/Export | Validates, reports partial failures | Basic happy-path | Brittle, no reporting |
-| Filters/Search | Fast + safe | Works but slow | Missing or unsafe |
-| Tests | Covers DAL + routes | Partial coverage | Minimal/none |
+## Function & Safety (40%)
+- [ ] Human approval step is properly implemented
+- [ ] No personal data leaks or privacy violations
+- [ ] Safety guardrails prevent inappropriate content
+- [ ] Automation flow is complete and functional
+
+## Clarity & Structure (30%)
+- [ ] Prompt templates are clear and well-structured
+- [ ] Log fields capture essential information
+- [ ] Documentation is clear and complete
+- [ ] Screenshots show the complete flow
+
+## Impact (30%)
+- [ ] Time savings calculations are realistic
+- [ ] Evidence of actual time saved in logs
+- [ ] ROI demonstrates clear value
+- [ ] Automation addresses a real business need
+
+## Bonus Points
+- [ ] Creative use of automation features
+- [ ] Excellent documentation and screenshots
+- [ ] Clear demonstration of cost control
+- [ ] Evidence of continuous improvement
