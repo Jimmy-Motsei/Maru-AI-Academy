@@ -22,18 +22,23 @@
 ## Steps
 
 ### Step 1: Choose your capstone project (1 day)
+
 Use the 3 filters from Section 1:
+
 - **Frequent**: happens daily or weekly
 - **Repeatable**: similar inputs each time
 - **Safe**: uses green or anonymized data; has human review
 
 **Examples:**
+
 - Enquiry → reply draft → human approve → send → log
 - Meeting notes → action items → weekly reminder
 - Report text → decision summary → task table
 
 ### Step 2: Design your workflow (1 day)
+
 Complete the Workflow Canvas with:
+
 - **Name**: Clear, descriptive name
 - **Trigger**: What starts the workflow
 - **Steps**: 2-4 actions in order
@@ -46,29 +51,36 @@ Complete the Workflow Canvas with:
 - **Risks & mitigations**: What can go wrong + your checks
 
 ### Step 3: Build and test (2-3 days)
+
 **Build tips:**
+
 - Keep to 2-3 actions plus human approval
 - Use your 5-part prompts with tone, word limits, and "no invented facts"
 - Store prompts as templates for consistency
 
 **Test plan (15-20 min):**
+
 - Dry-run on 3-5 past examples (anonymized)
 - Check tone, facts, and format
 - Test edge cases: missing info, unclear requests, long messages
 - Fix prompts or add checks where outputs failed
 
 ### Step 4: Measure impact (ongoing)
+
 **Baseline today:**
+
 - Time per task (minutes)
 - Volume per day/week
 - Error rate (if any)
 
 **After launch:**
+
 - Log minutes saved per run
 - Track any corrections made
 - Calculate total impact
 
 **Weekly scorecard:**
+
 - Volume handled
 - Avg response time (before vs after)
 - Minutes saved (sum)
@@ -76,7 +88,9 @@ Complete the Workflow Canvas with:
 - Next improvement
 
 ### Step 5: Document and handover (1 day)
+
 Create a one-page SOP with:
+
 - **Purpose**: What this workflow delivers
 - **When it runs**: Trigger and frequency
 - **How to run**: Steps 1-4 (with screenshots)
@@ -88,13 +102,16 @@ Create a one-page SOP with:
 Include your safety policy: "No invented facts. Ask when unsure. Cite sources where needed. Human review required."
 
 ### Step 6: Launch and support (1 week)
+
 **Launch plan:**
+
 - Start with one team or one inbox for a week
 - Announce who's on approval duty and expected reply times
 - Monitor the log daily; adjust prompts as needed
 - Collect wins to share in your next meeting
 
 **After week 1:**
+
 - Widen to more users; keep approval step until error rate is near zero
 - Set monthly cost cap and alerts
 
